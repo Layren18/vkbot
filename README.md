@@ -1,0 +1,2 @@
+# vkbot
+VKontakte bot
